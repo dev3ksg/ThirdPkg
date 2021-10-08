@@ -1,0 +1,11 @@
+Package: SecPkg
+Type: Package
+Title: SecPkg package that works with SecPkg application
+Version: 1.00
+Date: 2021-10-08
+Depends: R (>= 4.0.0)
+Author: SecPkg.
+Maintainer: contact us <support@SecPkgstatistics.com>
+Description: This package is supposed to be used with a GUI application SecPkg.
+License: GPL (version 2 or later)
+LazyLoad: yes
